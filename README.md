@@ -3,7 +3,7 @@
 I'm just a 16 year old student who loves to practice cybersecurity. <br>
 
 <p align="center">
-    <img src="/home/oni/github/banner.gif">
+    <img src="https://github.com/0x4f6e69690a/0x4f6e69690a/blob/master/banner.gif">
 </p>
 <br>
 
