@@ -23,3 +23,6 @@ const char *Skills[256] = {
 ```
 
 ---
+[rootme]: https://www.root-me.org/onii?lang=fr
+[hackthebox]: https://app.hackthebox.eu/users/586953
+[tryhackme]: https://tryhackme.com/p/oni
