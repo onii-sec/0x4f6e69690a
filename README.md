@@ -1,6 +1,6 @@
 ## Hi, I'm Onii 👋
 
-I'm just a 16 year old student who loves to practice in cybersecurity. <br>
+I'm just a 16 year old student who loves to practice cybersecurity. <br>
 
 <p align="center">
     <img src="/home/oni/github/banner.gif">
