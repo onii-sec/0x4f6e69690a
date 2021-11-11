@@ -1,6 +1,6 @@
 ## Hi, I'm Onii 👋
 
-I'm just a 16 year old student who loves to practice cybersecurity. <br>
+I'm just a 16 year old student who am keen on doing cybersecurity. <br>
 
 <p align="center">
     <img src="https://github.com/0x4f6e69690a/0x4f6e69690a/blob/master/banner.gif">
@@ -17,7 +17,7 @@ I'm just a 16 year old student who loves to practice cybersecurity. <br>
 ---
 
 ```c
-const char *Skills[256] = {
+const char Skills[256] = {
 
     "C", "Python", "Html", "Css", "Pentesting"
 }
